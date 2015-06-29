@@ -7,9 +7,9 @@
   "engines": {
     "atom": ">=0.175.0"
   },
-  "dependencies": [
-    "whatwg-fetch@0.9.0"
-  ],
+  "dependencies": {
+    "whatwg-fetch": "^0.9.0"
+  },
   "contributors": [
     "Blake Winton"
   ],
